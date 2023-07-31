@@ -1,0 +1,52 @@
+@media screen and (max-width:768px) {
+    .seen{
+        display: block;
+    }
+    .home{
+        display: none;
+    }
+    .home3{
+        display: none;
+    }
+    .home7{
+        display: none;
+    }
+    .home2{
+        padding: 80px 25px 0px 35px;
+    }
+    .hom5{
+        top: 33vw;
+        left: 16vw;
+    }
+    .main{
+        display: none;
+    }
+    .mm{
+        display: block;
+    }
+    .type{
+        display: block;
+    }
+}
+@media screen and (max-width:1198px) {
+    .home1{
+        display:block;
+    }
+    .line{
+        display: none;
+    }
+    .h1{
+        padding-left: 46vw;
+        font-size: 3vw;
+    }
+    .u{
+        display: block;
+    }
+    .y{
+        display: none;
+    }
+    
+}
+@media screen and (min-width:769px) and (max-width:1197px) {
+   
+}
